@@ -1,0 +1,8 @@
+rootProject.name = 'driveeasy-backend'
+
+include 'service-registry'
+include 'config-server'
+include 'vehicule-service'
+include 'client-service'
+include 'location-service'
+include 'api-gateway'
